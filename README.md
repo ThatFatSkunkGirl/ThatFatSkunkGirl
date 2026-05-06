@@ -20,7 +20,7 @@ Lenovo Ideapad z710--------│
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ThatFatSkunkGirl&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ThatFatSkunkGirl&layout=donut)](https://github.com/Pranesh-2005/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=ThatFatSkunkGirl&layout=compact)](https://github.com/ThatFatSkunkGirl/github-readme-stats-fast)
+[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=c9e721ec-4691-4e63-8518-838e6d4b7226&layout=compact)](https://github.com/ThatFatSkunkGirl/github-readme-stats-fast)
 
 
 ## Find me elsewhere!!
