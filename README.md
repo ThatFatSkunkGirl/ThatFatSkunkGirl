@@ -2,22 +2,11 @@
 - English and French speaker
 - 180+ Pounds and growing!
 - Usually a solo dev!
-                                                               
-                       ./o.                                   
-                     ./sssso-                                  
-                   `:osssssss+-                                
-                 `:+sssssssssso/.                                EndeavourOS 7.0.10-arch1-1
-               `-/ossssssssssssso/.                              fish 4.7.1
-             `-/+sssssssssssssssso+:`                            Xfwm4 (X11)
-           `-:/+sssssssssssssssssso+/.                           kitty 0.47.1
-         `.://osssssssssssssssssssso++-                          Intel(R) Core(TM) i7-4700MQ (8) @ 3.40 GHz
-        .://+ssssssssssssssssssssssso++:                         NVIDIA GeForce GT 745M [Discrete]
-      .:///ossssssssssssssssssssssssso++:                        Intel 4th Gen Core Processor Integrated Graphics Controller @ 1.15 GHz [Integrated]
-    `:////ssssssssssssssssssssssssssso+++.                    
-  `-////+ssssssssssssssssssssssssssso++++-                     
-   `..-+oosssssssssssssssssssssssso+++++/`                     
-     ./++++++++++++++++++++++++++++++/:.
-    `:::::::::::::::::::::::::------``                                                 
+
+I7 4700MQ
+Nvidia GT 745M
+8 Gigs
+EndevorOS
                                                                                        
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ThatFatSkunkGirl&show_icons=true&theme=radical)
