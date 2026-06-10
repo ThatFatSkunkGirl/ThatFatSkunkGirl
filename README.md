@@ -2,21 +2,23 @@
 - English and French speaker
 - 180+ Pounds and growing!
 - Usually a solo dev!
-
-## my silly setup!! :3
-Lenovo Ideapad z710--------│
-
-  │CPU: Intel i7 4700MQ
-
-  │GPU: Nvidia GT 745M
-
-  │RAM: 8G DDR3
-
-  │OS: Linux, Arch, CachyOS
-
-  │DE: KDE Plasma 6
-
-  │Main IDE: VSCode
+                                                               
+                       ./o.                                   
+                     ./sssso-                                  
+                   `:osssssss+-                                
+                 `:+sssssssssso/.                                EndeavourOS 7.0.10-arch1-1
+               `-/ossssssssssssso/.                              fish 4.7.1
+             `-/+sssssssssssssssso+:`                            Xfwm4 (X11)
+           `-:/+sssssssssssssssssso+/.                           kitty 0.47.1
+         `.://osssssssssssssssssssso++-                          Intel(R) Core(TM) i7-4700MQ (8) @ 3.40 GHz
+        .://+ssssssssssssssssssssssso++:                         NVIDIA GeForce GT 745M [Discrete]
+      .:///ossssssssssssssssssssssssso++:                        Intel 4th Gen Core Processor Integrated Graphics Controller @ 1.15 GHz [Integrated]
+    `:////ssssssssssssssssssssssssssso+++.                    
+  `-////+ssssssssssssssssssssssssssso++++-                     
+   `..-+oosssssssssssssssssssssssso+++++/`                     
+     ./++++++++++++++++++++++++++++++/:.
+    `:::::::::::::::::::::::::------``                                                 
+                                                                                       
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ThatFatSkunkGirl&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ThatFatSkunkGirl&layout=donut)](https://github.com/Pranesh-2005/github-readme-stats)
