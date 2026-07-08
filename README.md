@@ -2,11 +2,6 @@
 - English and French speaker
 - 180+ Pounds and growing!
 - Usually a solo dev!
-
-I7 4700MQ
-Nvidia GT 745M
-8 Gigs
-EndevorOS
                                                                                        
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ThatFatSkunkGirl&show_icons=true&theme=radical)
